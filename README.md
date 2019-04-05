@@ -1,4 +1,4 @@
-Code | Github Pages
+Branch | Github Pages
 ------------ | -------------
 Demostration | [view](https://garyavendanio.github.io/nav/)
-Content in the first column | Content in the second column
+Behance | [folio](https://www.behance.net/avenros17f21)
