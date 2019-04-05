@@ -1,1 +1,1 @@
-[view](https://github.com/garyavendanio/nav)
+[view](https://garyavendanio.github.io/nav/)
