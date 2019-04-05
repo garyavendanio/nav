@@ -1,4 +1,4 @@
 Branch | Github Pages
 ------------ | -------------
-Demostration | [view](https://garyavendanio.github.io/nav/)
-Behance | [folio](https://www.behance.net/avenros17f21)
+Demostration | [view nav](https://garyavendanio.github.io/nav/)
+Folio | [skerted](https://skerted.com)
